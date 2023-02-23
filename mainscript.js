@@ -25,4 +25,4 @@ function sayHello(name) {
 
 // if the script is at the end, we always put DOMcontent loaded in the beginning;
 // however when we work with modules, we put script in the HEAD of HTML so we make sure that the content will be loaded;
-// this we will also do in REACT
+// this we will also do in
